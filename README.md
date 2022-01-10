@@ -4,6 +4,6 @@
 - 👀 I’m interested in DevOps
 - 🌱 I’m currently learning Docker and Kubernetes
 - 📫 reach out me on https://www.sachinrathod.com/
-                    sachinrathodm@gmail.com
-                    https://www.linkedin.com/in/sachinrathodm/
+-                    sachinrathodm@gmail.com
+-                    https://www.linkedin.com/in/sachinrathodm/
                     
